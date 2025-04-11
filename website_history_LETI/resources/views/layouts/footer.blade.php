@@ -49,7 +49,7 @@
     <div class="container copyright text-center mt-4">
       <p> <span></span> <strong class="px-1 sitename">LETI - </strong> <span>Lighting up dreams</span></p>
       <div class="credits">
-        Designed by <a href="{{asset('https://bootstrapmade.com/')}}">PAM</a>
+        Designed by <a href="#">PAM</a>
       </div>
     </div>
 

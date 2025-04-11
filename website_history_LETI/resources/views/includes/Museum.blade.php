@@ -851,7 +851,7 @@
           <img src=" {{asset('assets/img/pic_home/anh_74.jpg')}}" class="img-fluid" alt="">
           <div class="portfolio-info">
             <a href=" {{asset('assets/img/pic_home/anh_74.jpg')}}" title="" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+           
           </div>
         </div>
       </div><!-- End Portfolio Item -->
@@ -861,7 +861,7 @@
           <img src=" {{asset('assets/img/pic_home/anh_75.jpg')}}" class="img-fluid" alt="">
           <div class="portfolio-info">
             <a href=" {{asset('assets/img/pic_home/anh_75.jpg')}}" title="" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-            <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+           
           </div>
         </div>
       </div><!-- End Portfolio Item -->

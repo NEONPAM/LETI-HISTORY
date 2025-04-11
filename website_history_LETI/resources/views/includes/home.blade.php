@@ -151,7 +151,7 @@
             <div class="icon">
               <i class="bi bi-activity"></i>
             </div>
-            <a href="service-details.html" class="stretched-link">
+           
               <h3>Бакалавр - Специалист</h3>
             </a>
             <p>Бакалавр: 4 года обучения, базовые технические знания.</p>
@@ -169,7 +169,7 @@
             <div class="icon">
               <i class="bi bi-broadcast"></i>
             </div>
-            <a href="service-details.html" class="stretched-link">
+      
               <h3>Магистр</h3>
             </a>
             <p>Магистерские программы в ЛЭТИ направлены на развитие продвинутых знаний и исследовательских навыков.</p>
@@ -186,7 +186,7 @@
             <div class="icon">
               <i class="bi bi-easel"></i>
             </div>
-            <a href="service-details.html" class="stretched-link">
+           
               <h3>Доктор наук</h3>
             </a>
             <p>Программы аспирантуры в ЛЭТИ предлагают возможность проводить оригинальные исследования и вносить вклад в академическую науку.</p>
@@ -452,10 +452,6 @@
           <div class="member-info">
             <h4>Pham Manh</h4>
             <span>Programmer</span>
-            <div class="social">
-              <a href=""><i class="bi bi-facebook"></i></a>
-              <a href=""><i class="bi bi-instagram"></i></a>
-            </div>
           </div>
         </div>
       </div><!-- End Team Member -->
@@ -466,10 +462,6 @@
           <div class="member-info">
             <h4>Tung Duong</h4>
             <span>Designer</span>
-            <div class="social">
-              <a href=""><i class="bi bi-facebook"></i></a>
-              <a href=""><i class="bi bi-instagram"></i></a>
-            </div>
           </div>
         </div>
       </div><!-- End Team Member -->
@@ -480,10 +472,6 @@
           <div class="member-info">
             <h4>The Duy</h4>
             <span> Content Manager</span>
-            <div class="social">
-              <a href=""><i class="bi bi-facebook"></i></a>
-              <a href=""><i class="bi bi-instagram"></i></a>
-            </div>
           </div>
         </div>
       </div><!-- End Team Member -->
